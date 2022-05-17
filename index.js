@@ -5,3 +5,7 @@ function doSomething(){
 function functionFromNewBranch (){
     console.log("function new branch");
 }
+
+function CheckProcess (){
+    console.log("Check process");
+}

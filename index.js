@@ -9,3 +9,6 @@ function functionFromNewBranch (){
 function CheckProcess (){
     console.log("Check process");
 }
+function otherFunction (){
+    console.log("other function new branch");
+}
